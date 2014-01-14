@@ -1,4 +1,4 @@
 Project Euler Challenges
 =============
 
-# 1 - Done!
+Problem 1 - Done!
